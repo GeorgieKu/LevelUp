@@ -54,4 +54,10 @@
     .hero-list {
         display: none;
     }
+    .input-name::placeholder {
+        font-size: 12px;
+    }
+    .input-tel::placeholder {
+        font-size: 12px;
+    }
 }

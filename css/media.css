@@ -53,4 +53,22 @@
   .hero-list {
     display: none;
   }
+  .input-name::-moz-placeholder {
+    font-size: 12px;
+  }
+  .input-name:-ms-input-placeholder {
+    font-size: 12px;
+  }
+  .input-name::placeholder {
+    font-size: 12px;
+  }
+  .input-tel::-moz-placeholder {
+    font-size: 12px;
+  }
+  .input-tel:-ms-input-placeholder {
+    font-size: 12px;
+  }
+  .input-tel::placeholder {
+    font-size: 12px;
+  }
 }/*# sourceMappingURL=media.css.map */
